@@ -23,6 +23,13 @@
 # Inherit from common serrano
 -include device/samsung/serrano-common/BoardConfigCommon.mk
 
+# Validus optimizations
+SYMMETRY := true
+GRAPHITE_OPTS := true
+STRICT_ALIASING := false
+VALIDUS_CHANGELOG := false
+NO_BLOCK_OTA := false
+
 # Assert
 TARGET_OTA_ASSERT_DEVICE := serranolte,serranoltebmc,serranoltektt,serranoltexx
 
