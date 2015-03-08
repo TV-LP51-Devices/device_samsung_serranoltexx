@@ -10,9 +10,9 @@
 "branch": "cm-12.0"
 },
 {
-"repository": "Cyanogenmod/android_device_samsung_msm8930-common",
+"repository": "Team-Validus/android_device_samsung_msm8930-common",
 "target_path": "device/samsung/msm8930-common",
-"branch": "cm-12.0"
+"branch": "lp5.0"
 },
 {
 "repository": "Cyanogenmod/android_device_samsung_serrano-common",
