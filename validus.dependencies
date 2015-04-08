@@ -10,9 +10,9 @@
 "branch": "cm-12.1"
 },
 {
-"repository": "Team-Validus/android_device_samsung_msm8930-common",
+"repository": "TV-LP51-Devices/android_device_samsung_msm8930-common",
 "target_path": "device/samsung/msm8930-common",
-"branch": "cm-12.1"
+"branch": "lp5.1"
 },
 {
 "repository": "Cyanogenmod/android_device_samsung_serrano-common",
