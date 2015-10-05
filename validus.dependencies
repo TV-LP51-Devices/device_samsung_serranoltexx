@@ -20,11 +20,6 @@
 "branch": "cm-12.1"
 },
 {
-"repository": "Cyanogenmod/android_hardware_qcom_fm",
-"target_path": "hardware/qcom/fm",
-"branch": "cm-12.1"
-},
-{
 "repository": "Cyanogenmod/android_kernel_samsung_msm8930-common",
 "target_path": "kernel/samsung/msm8930-common",
 "branch": "cm-12.1"
